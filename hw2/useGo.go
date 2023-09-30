@@ -1,5 +1,5 @@
-// Writing using backtracking
-//Using too large a number may take a long time to calculate. Learning GO for the first time.
+/* Writing using backtracking
+Using too large a number may take a long time to calculate. Learning GO for the first time.*/
 
 package main
 
