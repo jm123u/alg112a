@@ -1,6 +1,6 @@
 #include <iostream>
 
-// 定义一个函数来计算斐波那契数列的第n项
+
 long long fibonacci(int n) {
     // 处理输入小于等于0的情况
     if (n <= 0) {
